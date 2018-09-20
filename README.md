@@ -8,6 +8,10 @@
     - **WHAT** happened? 결과가 어땠음?
     - **WHY** it happened? 어쩌다가 그리됨?
     - **HOW** it can be done better? 어떡하면 더 잘할수 있음?
+    
+# 단계별 연구주제
+1. __이더리움 백서정리 및 주요 기술동향 파악__
+2. __Solidity 언어문법 및 사용법 숙지__
 
 # 프로젝트 관리
 - [Issue 기반 관리](https://github.com/cheese10yun/github-project-management)
